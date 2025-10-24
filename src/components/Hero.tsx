@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Copy, Check } from 'lucide-react';
-import { SiSpotify, SiX, SiLinkedin, SiInstagram, SiWhatsapp } from 'react-icons/si';
+import { SiSpotify, SiX, SiInstagram, SiWhatsapp } from 'react-icons/si';
 import { useNavigation } from '../contexts/NavigationContext';
 import { useLanguage } from '../contexts/LanguageContext';
 import { translations } from '../translations/translations';
@@ -15,7 +15,6 @@ const Hero: React.FC = () => {
   // Declare icon components as variables to avoid TS issues
   const SpotifyIcon = SiSpotify as React.ComponentType<{ className?: string }>;
   const XIcon = SiX as React.ComponentType<{ className?: string }>;
-  const LinkedinIcon = SiLinkedin as React.ComponentType<{ className?: string }>;
   const InstagramIcon = SiInstagram as React.ComponentType<{ className?: string }>;
   const WhatsappIcon = SiWhatsapp as React.ComponentType<{ className?: string }>;
 
@@ -96,7 +95,7 @@ const Hero: React.FC = () => {
             isCollapsed ? 'md:justify-start' : 'md:justify-center'
           }`}
         >
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
+          <a href="https://open.spotify.com/artist/placeholder" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
             <SpotifyIcon className="w-5 h-5" />
           </a>
           <a href="https://x.com/war_navarro" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">

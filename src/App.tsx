@@ -62,7 +62,7 @@ function HomePage() {
                   </p>
                 </div>
                 <div className="flex gap-6">
-                  <a href="#" className="text-muted-foreground hover:text-accent transition-colors">
+                  <a href="https://open.spotify.com/artist/placeholder" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                     Spotify
                   </a>
                   <a href="https://x.com/war_navarro" className="text-muted-foreground hover:text-accent transition-colors">
