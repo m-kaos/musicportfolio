@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "url": "https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqT",
+    "description": "Original composition blending electronic and orchestral elements",
+    "order": 1,
+    "title": "Midnight Synthesis",
+    "date": "2024"
+  },
+  {
+    "id": 2,
+    "url": "https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp",
+    "description": "Ambient soundscape inspired by urban landscapes",
+    "order": 2,
+    "title": "City Lights",
+    "date": "2024"
+  },
+  {
+    "id": 3,
+    "url": "https://open.spotify.com/embed/track/0VjIjW4GlUZAMYd2vXMi3b",
+    "description": "Experimental fusion of jazz and electronic music",
+    "order": 3,
+    "title": "Electric Dreams",
+    "date": "2023"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Creepy Cat Cult",
+    "year": "2024",
+    "image": "ccc.jpeg",
+    "genres": ["Pop Rock", "Psychedelic Rock", "Punk Rock", "Experimental Rock", "Garage Rock", "Alternative Rock"],
+    "shortDescription": "A bold collaborative project exploring the boundaries of rock with psychedelic and experimental influences.",
+    "fullDescription": "Creepy Cat Cult emerged in 2024 as a collaborative venture with close friends, blending raw punk energy with psychedelic experimentation. The project pushes the boundaries of traditional rock, incorporating elements of garage rock, alternative sounds, and experimental production techniques. Drawing inspiration from the underground music scene, CCC creates visceral sonic experiences that challenge conventional song structures while maintaining an infectious, high-energy performance style.",
+    "role": "Guitarist, Composer, Producer",
+    "spotifyAlbum": "https://open.spotify.com/album/placeholder",
+    "spotifyArtist": "https://open.spotify.com/artist/placeholder",
+    "merchLink": "https://store.placeholder.com",
+    "highlights": [
+      "Debut album recorded in analog studio sessions",
+      "Featured at underground music festivals across Mexico",
+      "Collaborative songwriting process with full band",
+      "Experimental use of vintage guitar effects and synths"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kaos",
+    "year": "2025",
+    "image": "logo.webp",
+    "genres": ["Electronic Rock", "Synth Rock", "Neo-Classical", "Industrial", "Ambient", "Progressive Rock"],
+    "shortDescription": "A personal sonic exploration merging electronic textures with organic instrumentation and classical influences.",
+    "fullDescription": "Kaos is my personal musical project launched in 2025, representing a deeper exploration into the fusion of electronic and organic sounds. The project encompasses a wide sonic palette, from fuzzy, distorted guitar landscapes to pristine classical arrangements, all bound together by layered synthesizers and intricate production. Kaos serves as a platform for uninhibited creative expression, blending elements of industrial music, ambient soundscapes, and progressive rock structures. Each composition tells a story through carefully crafted textures and dynamic contrasts.",
+    "role": "Composer, Multi-Instrumentalist, Producer, Sound Engineer",
+    "spotifyAlbum": "https://open.spotify.com/album/placeholder",
+    "spotifyArtist": "https://open.spotify.com/artist/placeholder",
+    "merchLink": "https://store.placeholder.com",
+    "highlights": [
+      "Full creative control over composition and production",
+      "Hybrid analog-digital production workflow",
+      "Integration of orchestral elements with modern synths",
+      "Cinematic approach to song arrangement and mixing",
+      "Custom sound design and experimental processing"
+    ]
+  }
+]
